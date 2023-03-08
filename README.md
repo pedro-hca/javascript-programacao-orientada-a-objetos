@@ -1,3 +1,3 @@
 # Javascript POO
 
-Projeto feito para o curso JavaScript: programando a Orientação a Objetos da Alura
+Projeto feito para os cursos JavaScript: programando a Orientação a Objetos e JavaScript: interfaces e Herança em Orientação a Objetos da Alura
